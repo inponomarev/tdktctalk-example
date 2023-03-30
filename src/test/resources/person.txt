@@ -1,0 +1,6 @@
+  - table_name_with_schema: "public.speaker"
+    transformations:
+      - columns: [ "name" ]
+        params:
+          type: person_generator
+          column_templates: ["${first_name} ${last_name}"]

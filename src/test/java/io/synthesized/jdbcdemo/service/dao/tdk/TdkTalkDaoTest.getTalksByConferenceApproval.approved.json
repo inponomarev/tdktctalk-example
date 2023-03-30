@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "name": "MnkVLBcSGJeelU190EZAwq",
+    "conference": {
+      "id": 5,
+      "name": "9zx3i8oNspCHrkIhneNYG18"
+    },
+    "status": "NEW",
+    "feedback": "RoopSXMfpkPYSNA1W4N",
+    "speakers": [
+      {
+        "id": 2,
+        "name": "c"
+      }
+    ]
+  }
+]

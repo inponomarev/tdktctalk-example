@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1002,
+    "name": "Reactive, or not reactive: that is the question",
+    "conference": {
+      "id": 1001,
+      "name": "JPoint"
+    },
+    "status": "IN_REVIEW",
+    "speakers": [
+      {
+        "id": 1002,
+        "name": "Kirill Tolkachev"
+      },
+      {
+        "id": 1003,
+        "name": "Evgeny Borisov"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Don\u0027t be Homer Simpson to your Reactor!",
+    "conference": {
+      "id": 1001,
+      "name": "JPoint"
+    },
+    "status": "IN_REVIEW",
+    "speakers": [
+      {
+        "id": 1001,
+        "name": "Sergey Egorov"
+      }
+    ]
+  }
+]
